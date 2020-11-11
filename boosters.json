@@ -3,5 +3,10 @@
         "title": "Starter Pack",
         "description": "A good introduction to custom levels, going from easy to hard.",
         "image": "https://github.com/auburnsummer/rd-boosters2/raw/master/starter.png"
+    },
+    {
+        "title": "Space Vibes",
+        "description": "Take a trip through the stars with these space themed levels.",
+        "image": "https://github.com/auburnsummer/rd-boosters2/raw/master/space.png"
     }
 ]
